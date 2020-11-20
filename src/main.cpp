@@ -3,7 +3,7 @@
 using namespace std;
 int l, su = 0;
 float avg = 0;
-//declaring matrices on construction (found method on stackoverflow). with () for float. without () for int. 
+//declaring matrices on construction
 
 int *a = new int[l];
 float* dev = new float[l]();
