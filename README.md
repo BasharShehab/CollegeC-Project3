@@ -1,5 +1,4 @@
-# CollegeC-Project3
-the 3rd and last file of my C++ project of my first semester at ASPU
+# Math operations on arrays.
 
 this program does the following 
 
@@ -10,4 +9,4 @@ this program does the following
     function "avarg" that returns the SMA of array 'A'.
     function "STD" which returns the standard deviation of elements in array 'A'.
     
-this file completes the project that I did for college in my first semester.
+that's all. Have fun!
